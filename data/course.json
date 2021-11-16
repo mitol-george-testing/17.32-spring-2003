@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "12f19690-76a8-bc98-e87c-227955ed3f47"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Environmental Politics and Policy",
+  "course_description": "\"Environmental Politics & Policy\" explores the workings of environmental policymaking in the United States.\n\n*   What are the big issues facing environmental policy?\n*   How did we end up with the policies we have today?\n*   Why does it take a crisis to move environmental policy forward?\n*   Why do political factors - economic interests, social and political values, bureaucratic styles, ideologies, elections, etc. - always seem to overwhelm sound scientific and engineering judgment in determining policy outcomes?\n\nCase studies ranging from cleaning up toxic waste pollution to endangered species protection probe the clashes between science and politics at local, state, and federal levels.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.32",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
